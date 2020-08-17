@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.experience{
+    width: 100%;
+    height: 100vh;
+}
+
+.container {
+    width: 100%;
+    height: 100px;
+    background-color: darkgray;
+}
+
+.left{
+    float: left;
+    width: 50%;
+}
+.right{
+    float: right;
+    width: 50%;
+}
+
+.left h1{
+    font-size: 30px;
+    color: white;
+    padding-top: 25px;
+    margin-left: 80px;
+}
+
+ul li{
+    list-style-type: none ;
+    text-decoration: none;
+}
+
+ul li a{
+    text-decoration: none;
+    list-style-type: none;
+    float: left;
+    color: black;
+    padding-top: 30px;
+    margin-right: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+ul li a:hover{
+    color: white;
+}
+
+.landing-page{
+    background-color: lightgray;
+    width: 100%;
+    height: 90vh;
+}
+
+.landing-page img{
+    float: right;
+    margin-right: 250px;
+    padding-top: 60px;
+}
+.landing-page p{
+    padding-top: 120px;
+    margin-left: 150px;
+    font-size: 60px;
+    font-weight: bold;
+}
+.landing-page h4{
+    padding-top: 20px;
+    margin-left: 250px;
+    font-size: 25px;
+}
+
+.footer{
+    width: 100%;
+    height: 150px;
+}
+
+.footer-container{
+    width: 100%;
+    height: 150px;
+    background-color: darkgray;
+}
+
+.footer-container h4{
+    padding-top: 60px;
+    margin-left: 20px;
+}
+.footer-container img{
+    width: 20px;
+    height: 20px;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+
+.footer-container p{
+    float: right;
+    margin-right: 60px;
+}
